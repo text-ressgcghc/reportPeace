@@ -1,4 +1,4 @@
-# 北林自动报平安脚本
+# 自动报平安脚本
 
 原创文章，文章地址：[https://jetzihan.netlify.app/blog/rpeace](https://jetzihan.netlify.app/blog/rpeace)
 
